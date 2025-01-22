@@ -1,4 +1,5 @@
-# Foro Hub API
+
+# Foro Hub
 
 ## Descripción
 
@@ -41,3 +42,6 @@ Primero, clona este repositorio en tu máquina local:
 
 ```bash
 git clone https://github.com/tu_usuario/foro-hub.git
+
+
+Desarrollado por Leonardo Alvarado
